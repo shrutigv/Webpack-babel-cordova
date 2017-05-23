@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.idrink.app"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.idrink.app"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.idrink.app"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "com.idrink.app"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "com.idrink.app"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.idrink.app"
+        },
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "com.idrink.app"
+        }
+    }
+}
