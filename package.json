@@ -1,7 +1,7 @@
 {
   "name": "idrink",
   "version": "1.0.0",
-  "description": "Hydration management app",
+  "description": "example cordova app which works with babel",
   "main": "index.js",
   "dependencies": {
     "babel-polyfill": "^6.23.0",
@@ -44,7 +44,7 @@
   "email": "shruti16gv@gmail.com",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/shrutigv/idrink/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/shrutigv/idrink#readme"
+  "homepage": ""
 }
