@@ -7,6 +7,7 @@ var fs = require('fs'),
     entries = fs.readdirSync('./www/src/').filter(function(file) {
         return file.match(/.*\.js$/);
     }),
+    /*fetch entire directory*/
     filePath = {};
 entries.forEach(function(x, i) {
     i = x.replace(/\.[^/.]+$/, "");
